@@ -25,6 +25,9 @@ Only Windows computers can use this library.
 ## Documentation
 Check the [Official Documentation](https://thendplayer.github.io/IncrementalEngineDocumentation/) to learn how the engine works. 
 
+## Example
+[Magic Idle](https://github.com/Thendplayer/MagicIdle) is a simple **Idle** videogame where you generate and trade with magic to collect the highest magic value. It has been developed with Incremental Engine.
+
 ## UML Diagram
 
 Check the [PDF Version](https://drive.google.com/file/d/1Yd7c3xPXoY94BaXkGfAVL2dWBZfY9yhi/view?usp=sharing).
